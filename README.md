@@ -89,7 +89,7 @@ Developed a simple Python CLI where users can input any email and predict whethe
 
 🚀 How to Run Locally
 1. Clone the Repository
-git clone https://github.com/yourusername/Email-Spam-Detection.git
+git clone (https://github.com/AssadRaza10/spam-mail-detector-ml.git)
 cd Email-Spam-Detection
 
 2. Install Requirements
